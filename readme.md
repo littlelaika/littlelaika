@@ -17,7 +17,7 @@ The issue of canine overpopulation is a big problem. Most stray dogs once had an
 
 ### Research Cualitativo
 
-![app](images/app-01.png)
+![app](images/app-10.png)
 
 It began with the script of the interview to put together a set of questions to prioritize the research topics. 4 interviews were conducted to meet the users and also to find out if they have pets.
 
