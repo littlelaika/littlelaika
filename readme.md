@@ -76,7 +76,7 @@ The observed international websites can be seen on their adoption portals. That 
 
 ### User Journey Map
 
-Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas de cuando quieren adoptar un perro en el sitio web actual de la fundación. De acuerdo a la investigación del testing vídeo.
+A travel map was made to identify the critical points of the users in the different stages of when they want to adopt a dog.
 
 ![mapa-stuka-01](https://user-images.githubusercontent.com/32288156/39685111-9e69aaf8-5196-11e8-9a37-825360c74752.png)
 
