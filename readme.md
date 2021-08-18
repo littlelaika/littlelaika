@@ -1,3 +1,5 @@
+### *WHITEPAPER
+
 # LittleLaika foundation
 
 The LittleLaika Foundation is an organization that helps animals. We will have shelters in Latin American countries where this problem is being seen the most. We will have a website and an application where animals can be adopted. The project is focused on improving the experience of being able to adopt the puppies.
