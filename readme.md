@@ -1,6 +1,6 @@
-# Fundación Stuka
+# LittleLaika foundation
 
-Fundación Stuka es una organización que ayuda a los animales. Cuentan con un refugio de 120 perros ubicado en Casa Blanca. Cuentan con un sitio web en donde se pueden adoptar a los animales. El proyecto se encuentra enfocado en mejorar la experiencia de poder adoptar a los perritos a través del sitio web.
+The LittleLaika Foundation is an organization that helps animals. We will have shelters in Latin American countries where this problem is being seen the most. We will have a website and an application where animals can be adopted. The project is focused on improving the experience of being able to adopt the puppies.
 
 ![logo-01](https://user-images.githubusercontent.com/32288156/37945709-df9edcf0-3157-11e8-8afa-23156c1f0e89.png)
 
