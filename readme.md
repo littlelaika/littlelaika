@@ -16,7 +16,7 @@ The issue of canine overpopulation is a big problem. Most stray dogs once had an
 # Descubrimiento e investigación
 ### Research Cualitativo
 
-![app](imagenes/app-01.png)
+![app](images/app-01.png)
 
 It began with the script of the interview to put together a set of questions to prioritize the research topics. 4 interviews were conducted to meet the users and also to find out if they have pets.
 
@@ -33,7 +33,7 @@ Objectives of the questions are:
 ** Conclusions: **
 In the interviews, the users expressed themselves with great affection and love when talking about their pets. How they got to their homes were in circumstances where the dog faces some difficulty, for example in an accident, or malnutrition, that generated empathy of wanting to help and protect them.
 
-<img src="imagenes/entrevista-01.png" width="1000">
+<img src="images/entrevista-01.png" width="1000">
 
 
 ### Research Quantitative.
@@ -106,7 +106,7 @@ Luego del planteamiento del problema se definieron las preguntas claves ¿Cómo 
 ### Arquitectura de la información
 La arquitectura de la información me ayudó a organizar, etiquetar y diseñar el contenido que tendrá el sitio web. Esto me permite dar estructura, completar objetivos y dar sentido a la información. 
 
-![](imagenes/arquitectura-01.png)
+![](images/arquitectura-01.png)
 
 ### User flow y Testing
 Se utilizó user flow para determinar el trayecto que realizarán los diferentes usuarios. Al momento de iniciar una búsqueda de los perros en adopción en la fundación. 
@@ -119,7 +119,7 @@ Los wireframes fue testeado por funcionarios de la fundación en donde lograron 
 
 Se reafirma la hipótesis de entregar mayor información y características de los perros en adopción, ya que en la actualidad la voluntaria de las adopciones del sitio web, al momento de comunicarse con ella son los mismos posibles adoptantes le solicitan más fotografías de los perros, la historia de cómo llegó el animal o vídeo de él.
 
-![](imagenes/fundacion-01.png)
+![](images/fundacion-01.png)
 
 # Prototipo de alta fidelidad
 Las observaciones hechas en el testing fueron corregidas, para así mejorar la experiencia del usuario al momento de iniciar la búsqueda de un perro en adopción. Este nuevo prototipo fue hecho con la herramienta Marvelapp.
