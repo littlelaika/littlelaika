@@ -126,3 +126,7 @@ The hypothesis of providing more information and characteristics of the dogs for
 
 The observations made in the testing were corrected, in order to improve the user experience when starting the search for a dog for adoption. We are doing this new prototype with the Marvelapp tool.
 
+# Discovery and research
+About the cryptogame platform
+
+
