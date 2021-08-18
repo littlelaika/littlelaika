@@ -13,7 +13,8 @@ It should be noted that the development of the project will begin in Latin Ameri
 ### Objectives
 The issue of canine overpopulation is a big problem. Most stray dogs once had an owner who abandoned or lost them. That is why it is important on the website, to deliver all the information of the dogs that are in search of a second chance.
 
-# Descubrimiento e investigación
+# Discovery and research
+
 ### Research Cualitativo
 
 ![app](images/app-01.png)
