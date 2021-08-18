@@ -1,7 +1,7 @@
 # LittleLaika foundation
 
 The LittleLaika Foundation is an organization that helps animals. We will have shelters in Latin American countries where this problem is being seen the most. We will have a website and an application where animals can be adopted. The project is focused on improving the experience of being able to adopt the puppies.
-
+It should be noted that the development of the project will begin in Latin America, so there are Latin people from Chile, Peru and Mexico in the development team. The field study was carried out in Latin countries.
 ![logo-01](https://user-images.githubusercontent.com/32288156/37945709-df9edcf0-3157-11e8-8afa-23156c1f0e89.png)
 
 
