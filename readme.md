@@ -69,13 +69,7 @@ Bonds There are many reasons to adopt a pet. Some choose a breed that they parti
 ### Benchmark
 ![berchmark-01](https://user-images.githubusercontent.com/32288156/39684823-02a6a5ea-5195-11e8-8403-e24dfacbfada.png)
 
-Los sitios Web internacionales observados se puede apreciar en su portales de adopciones. Que al presentar, características de cada perrito son hablados en primera persona, el animal expresando su historia cómo llegó a la organización y las condiciones que se encuentra.
-
-# Síntesis y definición
-### User Persona - Arquetipos
-
-Elabore **User personas** enfocados en en un usuario que tienen mascotas. Para comprender más las necesidades de los usuarios al momento de querer adoptar.
-![userpersona-01](https://user-images.githubusercontent.com/32288156/39685000-089305e2-5196-11e8-9a9b-b4b7fb83f738.png)
+The observed international websites can be seen on their adoption portals. That when presenting, characteristics of each puppy are spoken in the first person, the animal expressing its history, how it came to the organization and the conditions it is in.
 
 ### User Journey Map
 
@@ -85,42 +79,47 @@ Se realizó un mapa de viaje, para identificar los puntos críticos de los usuar
 
 ### Problem Statement
 
-A partir del Customer Journey Map se definieron las principales necesidades de los usuarios.
-* Se necesita cumplir ciertas características para poder adoptar un perro.
+Based on the Customer Journey Map, the main needs of the users were defined.
+* You need to meet certain characteristics to be able to adopt a dog.
 
 ### HMW / What if?
-Luego del planteamiento del problema se definieron las preguntas claves ¿Cómo podríamos? (HMW) (What if?), estas preguntas sirvieron para entender más los problemas y desarrollar mejores hipótesis. 
-* Qué pasaría si existiera filtros para categorizar por tamaños, sexo y personalidad entre otros.
-* Qué pasaría si mostrarán fotografías de los perros en sus diferentes vistas.
-* Qué pasaría si en el sitio hubiera una reseña de cómo llegó el perrito a la fundación.
-* Qué pasaría si aparezca los perros que ya están en proceso de adopción.
-* Qué pasaría si aparece vídeos de los perros de la fundación.
-* Qué pasaría que pudieran también apadrinar a un perro de la fundación.
-* Qué pasaría si la descripción del perro se presentará de una manera lúdica y hablada en primera persona, es el perro contando su historia.
+After posing the problem, the key questions were defined: How could we? (HMW) (What if?), These questions served to better understand the problems and develop better hypotheses.
+* What if there were filters to categorize by size, sex and personality among others.
+* What if they show pictures of the dogs in their different views.
+* What if the site had a review of how the puppy came to the foundation.
+* What would happen if the dogs that are already in the adoption process appear.
+* What would happen if videos of the foundation's dogs appear.
+* What if they could also sponsor a dog from the foundation.
+* What if the description of the dog is presented in a playful and spoken way in the first person, it is the dog telling his story.
+# Ideation
+### Value proposal
 
-# Ideación
-### Propuesta de Valor
 
-* Enfocado en la búsqueda de adoptar, pero de una manera simple, iniciara en el home del sitio web, donde invitan a comenzar la búsqueda respondiendo un cuestionario.
+* Focused on the search to adopt, but in a simple way, it will start at the home of the website, where they invite you to start the search by answering a questionnaire.
 
-### Arquitectura de la información
-La arquitectura de la información me ayudó a organizar, etiquetar y diseñar el contenido que tendrá el sitio web. Esto me permite dar estructura, completar objetivos y dar sentido a la información. 
+### Information architecture
+
+The information architecture helped us organize, tag and design the content that the website will have. This allows us to give structure, complete objectives and make sense of the information.
+
 
 ![](images/arquitectura-01.png)
 
 ### User flow y Testing
-Se utilizó user flow para determinar el trayecto que realizarán los diferentes usuarios. Al momento de iniciar una búsqueda de los perros en adopción en la fundación. 
+User flow was used to determine the path that the different users will take. When starting a search for dogs for adoption at the foundation.
+
 
 ![userflow-01](https://user-images.githubusercontent.com/32288156/39685343-6a32111a-5198-11e8-8fdc-9aa4cb4b0319.png)
 
-Los wireframes fue testeado por funcionarios de la fundación en donde lograron realizar la tarea asignada:
-* Responder el cuestionario de acuerdo a los criterios de un supuesto adoptante
-* Adoptar a Acelga una perrita de la fundación.
+The wireframes were tested by officials of the foundation where they managed to perform the assigned task:
+* Answer the questionnaire according to the criteria of a supposed adopter
+* Adopt Acelga, a dog from the foundation.
 
-Se reafirma la hipótesis de entregar mayor información y características de los perros en adopción, ya que en la actualidad la voluntaria de las adopciones del sitio web, al momento de comunicarse con ella son los mismos posibles adoptantes le solicitan más fotografías de los perros, la historia de cómo llegó el animal o vídeo de él.
+The hypothesis of providing more information and characteristics of the dogs for adoption is reaffirmed, since at present the voluntary adoptions of the website, at the time of communicating with her, are the same possible adopters requesting more photographs of the dogs, the story of how the animal arrived or video of it.
+
 
 ![](images/fundacion-01.png)
 
-# Prototipo de alta fidelidad
-Las observaciones hechas en el testing fueron corregidas, para así mejorar la experiencia del usuario al momento de iniciar la búsqueda de un perro en adopción. Este nuevo prototipo fue hecho con la herramienta Marvelapp.
+# High fidelity prototype
+
+The observations made in the testing were corrected, in order to improve the user experience when starting the search for a dog for adoption. We are doing this new prototype with the Marvelapp tool.
 
