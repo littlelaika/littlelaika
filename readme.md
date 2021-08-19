@@ -176,5 +176,8 @@ The player will win money every time he levels up:
 * From level 8 to level 9: 80 usd
 * From level 9 to level 10: 140 usd
 
+### Game controls
+Use the arrow keys to scroll. To shoot press the P key
+
 
 
