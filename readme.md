@@ -159,7 +159,22 @@ We present "space ship" will be one of the first games we will launch. Currently
 ![space](images/space.jpg)
 ![space2](images/space2.jpg)
 
+###Thematic
 
+The game tries to dodge and destroy asteroids and ships that will appear throughout the game, for destroying enemy ships you will receive more points which will allow you to accumulate them and thus be able to rise in levels. In each game you can collect rewards, tools that will help you throughout the game.
+
+###How to earn money in "space ship"?
+
+The player will win money every time he levels up:
+* From level 1 to level 2: 10 usd
+* From level 2 to level 3: 20 usd
+* From level 3 to level 4: 30 usd
+* From level 4 to level 5: 40 usd
+* From level 5 to level 6: 50 usd
+* From level 6 to level 7: 60 usd
+* From level 7 to level 8: 70 usd
+* From level 8 to level 9: 80 usd
+* From level 9 to level 10: 140 usd
 
 
 
