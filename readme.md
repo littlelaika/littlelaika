@@ -156,12 +156,14 @@ Voting rights can be exercised over the game roadmap, the presentation of game c
 # First game to be released "space-ship".
 We present "space ship" will be one of the first games we will launch. Currently this game is in Alpha version but we will soon have in Beta to share it with the community.
 
-![space](images/space.jpg)
-![space2](images/space2.jpg)
+![space](images/space2.jpg)
+![space2](images/space1.jpg)
 
 ### Thematic
 
 The game tries to dodge and destroy asteroids and ships that will appear throughout the game, for destroying enemy ships you will receive more points which will allow you to accumulate them and thus be able to rise in levels. In each game you can collect rewards, tools that will help you throughout the game.
+
+![netB](images/netbeans.jpg)
 
 ### How to earn money in "space ship"?
 
