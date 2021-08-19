@@ -111,7 +111,7 @@ The information architecture helped us organize, tag and design the content that
 User flow was used to determine the path that the different users will take. When starting a search for dogs for adoption at the foundation.
 
 
-![userflow-01](https://user-images.githubusercontent.com/32288156/39685343-6a32111a-5198-11e8-8fdc-9aa4cb4b0319.png)
+![userflow-01](images/estruc.png)
 
 The wireframes were tested by officials of the foundation where they managed to perform the assigned task:
 * Answer the questionnaire according to the criteria of a supposed adopter
