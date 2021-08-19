@@ -153,7 +153,9 @@ Voting rights can be exercised over the game roadmap, the presentation of game c
 
 ![sinop](images/200.png)
 
-### First game to be released "space-ship".
+# First game to be released "space-ship".
+We present "space ship" will be one of the first games we will launch. Currently this game is in Alpha version but we will soon have in Beta to share it with the community.
+
 ![space](images/space.jpg)
 ![space2](images/space2.jpg)
 
