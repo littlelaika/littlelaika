@@ -133,9 +133,23 @@ The LAIKA-GAME platform consists of:
 * Dogs-NFT (Phase 2) - Dog-themed game set that will use L-Dogs NFT as game characters in their own dedicated games, with the Littlelaika token used to purchase and upgrade the L-Dogs.
 
 ### Token utility
-The $ Littlelaika token allows holders to participate in skill-based tournaments, buy and upgrade L-Dogs NFT and participate in the ecosystem governance layer that allows voting on the platform roadmap, new game content and the creation of accumulated prizes. .
+The $ Littlelaika token allows holders to participate in skill-based tournaments, buy and upgrade L-Dogs NFT and participate in the ecosystem governance layer that allows voting on the platform roadmap, new game content and the creation of accumulated prizes.
 
+*Game payments and entry fees
+Players will need Littlelaika tokens to pay an entry fee to all skill-based tournaments and L-Dog games.
 
+*NFT purchase
+Players will need LittleLaika to purchase L-Dogs and purchase game packs.
+
+*NFT updates
+Players will pay with LittleLaika to upgrade their L-Dog and increase overall power and stats.
+
+*Staking
+Betting on L-Dogs will allow its owner to earn rewards at LittleLaika.
+LittleLaika will allow holders to participate in decisions about the features and content of the platform.
+
+*Governance
+Voting rights can be exercised over the game roadmap, the presentation of game content in dedicated Game Plots and the distribution of accumulated prizes.
 
 
 
