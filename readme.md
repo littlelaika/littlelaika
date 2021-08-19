@@ -126,7 +126,16 @@ The hypothesis of providing more information and characteristics of the dogs for
 
 The observations made in the testing were corrected, in order to improve the user experience when starting the search for a dog for adoption. We are doing this new prototype with the Marvelapp tool.
 
-# Discovery and research
-About the cryptogame platform
+# About the cryptogame platform
+The LAIKA-GAME platform consists of:
+* Rewards application (phase 1): game entertainment with more than 80 casual style games registered in web and mobile applications in the App Store and Google Play; The LITTLELAIKA token will be featured as a reward for players and a way to onboard the current free-to-play audience on the blockchain.
+
+* Dogs-NFT (Phase 2) - Dog-themed game set that will use L-Dogs NFT as game characters in their own dedicated games, with the Littlelaika token used to purchase and upgrade the L-Dogs.
+
+### Token utility
+The $ Littlelaika token allows holders to participate in skill-based tournaments, buy and upgrade L-Dogs NFT and participate in the ecosystem governance layer that allows voting on the platform roadmap, new game content and the creation of accumulated prizes. .
+
+
+
 
 
