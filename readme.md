@@ -179,5 +179,51 @@ The player will win money every time he levels up:
 ### Game controls
 Use the arrow keys to scroll. To shoot press the P key
 
+# Road map
 
+* Stage 1
 
+-Team Building 
+-Website launch
+-Twitter / Telegram / Reddit Marketing
+-Build a strong community
+-Listing on Pancakeswap
+-Update logo BscScan
+-Advertising on Poocoin
+-Top 1 trending DexTools
+-Apply for CoinGecko at 1000 holders
+-Apply for CMC at 2500 holders
+
+* Stage 2
+
+-Develop all our Social Media (Twitter, Instagram, Facebook, TikTok, GitHub, Medium, Reddit, etc.)
+-Ama's
+-First Audit
+-Website revamp
+-Reinforced Marketing on Tiktok, Twitter, Youtube and other social mediad
+-Top trending on DexTools
+-Creating our own charity platform
+-10,000 holders
+-Reach to 8,000 Telegram users
+-Arrive to 10M USD MarketCap
+
+* Stage 3
+
+-Actualization of the web site
+-Launch of the application in playstore. Launch of the staking and farming platform.
+-Contact with the other foundations of aid for the animals, so that they join the project.
+-Listing in several CEX exchanges.
+-Aggressive marketing campaign (hot influencers, billboards, hire marketing service)
+-Partnerships and Ambassadors
+-Official Merchandising
+-Be as more popular as we can in Youtube channels
+-Market tokens burn
+-15,000 holders
+-Reach to 12,000 Telegram users
+-Arrive to 25M USD MarketCap
+
+* Stage 4
+
+-Launch of the cryptogame platform.
+-Launch of the L-Dogs nft platform
+-More things coming... If you join us, you will know.
