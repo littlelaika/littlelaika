@@ -151,7 +151,7 @@ LittleLaika will allow holders to participate in decisions about the features an
 *Governance
 Voting rights can be exercised over the game roadmap, the presentation of game content in dedicated Game Plots and the distribution of accumulated prizes.
 
-![sinop](images/20.png)
+![sinop](images/200.png)
 
 
 
