@@ -155,6 +155,8 @@ Voting rights can be exercised over the game roadmap, the presentation of game c
 
 ### First game to be released "space-ship".
 ![space](images/space.jpg)
+![space2](images/space2.jpg)
+
 
 
 
