@@ -157,7 +157,7 @@ Voting rights can be exercised over the game roadmap, the presentation of game c
 We present "space ship" will be one of the first games we will launch. Currently this game is in Alpha version but we will soon have in Beta to share it with the community.
 
 ![space](images/space2.jpg)
-![space2](images/space1.jpg)
+![space2](images/space.jpg)
 
 ### Thematic
 
