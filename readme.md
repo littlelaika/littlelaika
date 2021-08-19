@@ -78,7 +78,7 @@ The observed international websites can be seen on their adoption portals. That 
 
 A travel map was made to identify the critical points of the users in the different stages of when they want to adopt a dog.
 
-![mapa-001](images/mapa-001.png)
+![mapa-001](images/mapa-1.png)
 
 ### Problem Statement
 
